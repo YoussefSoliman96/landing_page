@@ -1,0 +1,25 @@
+body{
+display: flex;
+flex-direction: column;
+padding-left: 150px;
+padding-right: 150px;
+}
+
+.header{
+display: flex;
+justify-content: space-between;
+padding: 5px;
+color: aliceblue;
+background-color: darkblue;
+font-weight: bold;
+
+
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0;    
+    padding: 0;
+    gap: 25px;
+}
